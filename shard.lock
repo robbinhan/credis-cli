@@ -1,0 +1,10 @@
+version: 1.0
+shards:
+  icr:
+    github: greyblake/crystal-icr
+    commit: ae94d4568826e54148667efeadee9e0e2f4e3be0
+
+  redis:
+    github: stefanwille/crystal-redis
+    version: 1.8.0
+
