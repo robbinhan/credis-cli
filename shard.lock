@@ -1,8 +1,8 @@
 version: 1.0
 shards:
   icr:
-    github: greyblake/crystal-icr
-    commit: ae94d4568826e54148667efeadee9e0e2f4e3be0
+    github: crystal-community/icr
+    commit: ecad885cc0af3daf963e0e438f8eb148c365b0bf
 
   redis:
     github: stefanwille/crystal-redis
